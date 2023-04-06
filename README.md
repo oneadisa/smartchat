@@ -1,6 +1,6 @@
-# Smartsapp Web App
+# Smart-Chat Web App
 
-Web App for Smartsapp messenger.
+Web App for Smart-Chat messenger.
 
 ## Tools used
 
