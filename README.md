@@ -38,4 +38,4 @@ To use the project follow the steps given below:
 ## Packaging App
 
 1. Use `npm run build` to package the react app
-# smartchat
+
